@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Adrian21203?tab=repositories](https://github.com/Adrian21203?tab=repositories)
 
-- 💬 Ask me about **HTML/CSS/JS/PYTHON/JAVA/C/C++/JUnit/SELENIUM**
+- 💬 Ask me about **HTML/CSS/JS/PYTHON/JAVA/C/C++/C#**
 
 - 📫 How to reach me **bobocadi124@gmail.com**
 
