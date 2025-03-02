@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **Web Developer**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Adrian21203?tab=repositories](https://github.com/Adrian21203?tab=repositories)
+- 👨‍💻 Linkedin [[https://github.com/Adrian21203?tab=repositories](https://www.linkedin.com/in/adrian-valentin-boboc-0bbb16314/)]
 
 - 💬 Ask me about **HTML/CSS/JS/PYTHON/JAVA/C/C++/C#**
 
